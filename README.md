@@ -1,1 +1,3 @@
-# Algorithmic-Thinking-Introduction-to-Object-Oriented-Programming-lives-maio-2026
+# Algorithmic Thinking Introduction to Object Oriented Programming
+* Lives de maio de 2026
+* Professor Fernando Leonid 
